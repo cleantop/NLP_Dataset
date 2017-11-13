@@ -1,4 +1,4 @@
-# nlp_dataset
+# Natural language processing datasets
 publicly available natural language processing datasets repo
 
 ## Part-of-speech tagging
