@@ -1,5 +1,5 @@
 # Natural language processing datasets
-publicly available natural language processing datasets repo
+publicly available natural language processing datasets 
 
 ## Part-of-speech tagging 
 1. Ted talk: http://ahclab.naist.jp/resource/tedtreebank/ 
