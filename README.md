@@ -18,3 +18,5 @@ publicly available natural language processing datasets repo
 
 ## Language modeling
 
+## Useful repository
+1. https://github.com/niderhoff/nlp-datasets
