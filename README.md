@@ -13,4 +13,3 @@ publicly available natural language processing datasets repo
 ## Word similarity
 1. RareWord: http://www.bigdatalab.ac.cn/benchmark/bm/dd?data=Rare%20Word
 2. WS353: http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/
-3. 
