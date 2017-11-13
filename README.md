@@ -20,3 +20,4 @@ publicly available natural language processing datasets repo
 
 ## Useful repository
 1. https://github.com/niderhoff/nlp-datasets
+2. https://github.com/caesar0301/awesome-public-datasets
