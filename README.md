@@ -7,7 +7,7 @@ publicly available natural language processing datasets repo
 3. American National Corpus: http://www.anc.org/data/masc/downloads/data-download/ 
 4. British news: http://nclt.computing.dcu.ie/~jfoster/resources/bnc1000.html 
 ## Text classification
-
+1. (Zhang et al, Character-level Convolutional Networks for Text Classification,NIPS 2015) : https://drive.google.com/drive/u/0/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M
 ## Named entity recognition
 
 ## Word similarity
