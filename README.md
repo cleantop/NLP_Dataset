@@ -5,7 +5,8 @@ publicly available natural language processing datasets
 1. Ted talk: http://ahclab.naist.jp/resource/tedtreebank/ 
 2. Stanford Question bank: https://nlp.stanford.edu/data/QuestionBank-Stanford.shtml 
 3. American National Corpus: http://www.anc.org/data/masc/downloads/data-download/ 
-4. British news: http://nclt.computing.dcu.ie/~jfoster/resources/bnc1000.html 
+4. British news: http://nclt.computing.dcu.ie/~jfoster/resources/bnc1000.html
+5. Universal Dependencies: https://github.com/UniversalDependencies
 
 ## Chunking
 1. CoNLL 2000: https://www.clips.uantwerpen.be/conll2000/chunking/
